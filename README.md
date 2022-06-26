@@ -11,7 +11,7 @@ to do so.
 ## Run the script and commands
 ```
 git clone https://github.com/kelwin13/WSL2_working_systemctl.git
-cd ubuntu-wsl2-systemd-script/
+cd WSL2_working_systemctl/
 bash ubuntu-wsl2-systemd-script.sh
 ```
 ## Enter your password and wait until the script has finished

@@ -10,7 +10,7 @@ to do so.
 
 ## Run the script and commands
 ```
-git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
+git clone https://github.com/kelwin13/WSL2_working_systemctl.git
 cd ubuntu-wsl2-systemd-script/
 bash ubuntu-wsl2-systemd-script.sh
 ```
